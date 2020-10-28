@@ -7,5 +7,5 @@ The idea is to have the logo (as png) in the middle, and have a spectrum of colo
  
 or 
 
-![kabuk-ss2](/home/siriuscoder/Pictures/kabuk-ss2.png)
+![kabuk-ss2](https://user-images.githubusercontent.com/68294272/97385673-d6c36980-18da-11eb-9445-1ec3381e2681.png)
 
