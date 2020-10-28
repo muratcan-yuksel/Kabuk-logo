@@ -1,4 +1,4 @@
-I created a logo for my cousin's VR company "Kabuk".
+I created a changing background for my cousin's VR company "Kabuk"s logo.
 
 The idea is to have the logo (as png) in the middle, and have a spectrum of colors pass underneath it (with linear gradient)
 
